@@ -9,9 +9,6 @@ I am Evan Pratten. Here is a bit about me. I am:
 
 I run a small, tech-oriented blog [on my website](https://retrylife.ca). It is here that I generally do writeups of my projects, and show off my work. Feel free to check it out, and maybe learn something obscure in the process.
 
-### Contact info 💬
-
-[Click Here](https://retrylife.ca/about/) for my contact info and GPG keys
 
 <!--
 **Ewpratten/ewpratten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
