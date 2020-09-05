@@ -3,7 +3,8 @@
 
 I am Evan Pratten. Here is a bit about me. I am:
  - Lead programmer at [Raider Robotics](https://github.com/frc5024)
- - Intern Pipeline Technical Director at [Industrial Brothers](https://www.industrialbrothers.com/)
+ - Highschool CS student
+ <!-- Intern Pipeline Technical Director at [Industrial Brothers](https://www.industrialbrothers.com/) -->
  
 ### My blog :book:
 
