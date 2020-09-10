@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Evan Pratten on LinkedIn](https://img.shields.io/badge/-Evan%20Pratten-262626?style=flat-square&labelColor=262626&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/evan-pratten-7205a11aa/)](https://www.linkedin.com/in/evan-pratten-7205a11aa/) [![ewpratten@retrylife.ca](https://img.shields.io/badge/-ewpratten@retrylife.ca-262626?style=flat-square&labelColor=262626&logo=Gmail&logoColor=white&link=mailto:ewpratten@retrylife.ca)](mailto:ewpratten@retrylife.ca) [![@ewpratten on Twitter](https://img.shields.io/badge/-@ewpratten-262626?style=flat-square&labelColor=262626&logo=twitter&logoColor=white&link=https://twitter.com/ewpratten)](https://twitter.com/ewpratten) [![@evanpratten on Instagram](https://img.shields.io/badge/-@evanpratten-262626?style=flat-square&labelColor=262626&logo=instagram&logoColor=white)](https://instagram.com/evanpratten) [![@slabs5225 on Snapchat](https://img.shields.io/badge/-@slabs5225-262626?style=flat-square&labelColor=262626&logo=snapchat&logoColor=white)](https://app.snapchat.com/web/deeplink/snapcode?username=slabs5225&type=SVG&size=240)
+[![Evan Pratten on LinkedIn](https://img.shields.io/badge/-Evan%20Pratten-262626?style=flat-square&labelColor=262626&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/evan-pratten-7205a11aa/)](https://www.linkedin.com/in/evan-pratten-7205a11aa/) [![ewpratten@retrylife.ca](https://img.shields.io/badge/-ewpratten@retrylife.ca-262626?style=flat-square&labelColor=262626&logo=Gmail&logoColor=white&link=mailto:ewpratten@retrylife.ca)](mailto:ewpratten@retrylife.ca) [![@ewpratten on Twitter](https://img.shields.io/badge/-@ewpratten-262626?style=flat-square&labelColor=262626&logo=twitter&logoColor=white&link=https://twitter.com/ewpratten)](https://twitter.com/ewpratten) [![@evanpratten on Instagram](https://img.shields.io/badge/-@evanpratten-262626?style=flat-square&labelColor=262626&logo=instagram&logoColor=white)](https://instagram.com/evanpratten) [![@slabs5225 on Snapchat](https://img.shields.io/badge/-@slabs5225-262626?style=flat-square&labelColor=262626&logo=snapchat&logoColor=white)](https://app.snapchat.com/web/deeplink/snapcode?username=slabs5225&type=SVG&size=240) [![Donations](https://img.shields.io/badge/$-donations-262626?style=flat-square&labelColor=262626)](https://retrylife.ca/donations)
 
 I am Evan Pratten. Here is a bit about me. I am:
  - Lead programmer at [Raider Robotics](https://github.com/frc5024)
@@ -9,10 +9,6 @@ I am Evan Pratten. Here is a bit about me. I am:
 ### My blog :book:
 
 I run a small, tech-oriented blog [on my website](https://retrylife.ca). It is here that I generally do writeups of my projects, and show off my work. Feel free to check it out, and maybe learn something obscure in the process.
-
-### Sponsoring me
-
-I happen to be under-age for GitHub sponsors. If you would like to make a small donation or "sponsor" to me, feel free to do so via [PayPal](https://paypal.me/ewpratten)
 
 
 <!--
