@@ -22,6 +22,10 @@
 
 ## More about me
 
+I have been developing software since the fifth grade, starting my journey with JavaScript and Python. Years later, I am now writing software both professionally, and as a hobby. Having two computer scientists for parents probably pre-disposed me to this honestly. 
+
+Outside of work, I almost exclusively develop open-source software, and it is all available here on this GitHub account. On personal projects, I like to iterate, experiment, and develop as fast as possible, which leads me to have a habit of cranking out projects every three-ish days. A lot of these projects are either developed out of necessity for use in another project, or as learning experiments. Feel free to use, fork, and contribute to any of my projects. I appreciate any feedback given in return.
+
 <hr>
 <details>
 <summary>Contact & Socials</summary>
