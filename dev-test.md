@@ -28,9 +28,7 @@ Outside of work, I almost exclusively develop open-source software, and it is al
 
 ## Notable past projects
 
-In the past, I have worked on many interesting projects of various sizes. I was once a (very) popular user over on [devRant](https://devrant.com/users/ewpratten), and have worked on multiple bots and statistical tools for the site's community, including my first ever group project, [devCredits](https://github.com/Ewpratten/devCredits), and a command-line client for the app, [dr](https://github.com/Ewpratten/dr).
-
-Neither of those old projects were particularly well designed or written on my part, but I learned a lot from them, and thats what matters in my opinion.
+In the past, I have worked on many interesting projects of various sizes. I was once a (very) popular user over on [devRant](https://devrant.com/users/ewpratten), and have worked on multiple bots and statistical tools for the site's community, including my first ever group project, [devCredits](https://github.com/Ewpratten/devCredits), and a command-line client for the app, [dr](https://github.com/Ewpratten/dr). Neither of those old projects were particularly well designed or written on my part, but I learned a lot from them, and thats what matters in my opinion.
 
 More recently, I have been involved with [Raider Robotics](https://github.com/frc5024), a [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) team based out of my highschool. On Raider Robotics, I was the leading force developing the software that powered our award-winning robots: [Q*bert](https://github.com/frc5024/PowerUP), [MiniBot](https://github.com/frc5024/uBase), [HATCHField](https://github.com/frc5024/DeepSpace), and [Darth Raider](https://github.com/frc5024/InfiniteRecharge). I also developed some [event management software](https://github.com/frc5024/ThriftyField), a [parts management tool](https://github.com/frc5024/parts) for the team shop, [hardware debugging tools](https://github.com/frc5024/testbench), and the team's [core robotics library](https://github.com/frc5024/lib5k) (including its [documentation](https://frc5024.github.io/lib5k)).
 
