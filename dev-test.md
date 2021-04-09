@@ -32,7 +32,8 @@ In the past, I have worked on many interesting projects of various sizes. I was 
 
 More recently, I have been involved with [Raider Robotics](https://github.com/frc5024), a [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) team based out of my highschool. On Raider Robotics, I was the leading force developing the software that powered our award-winning robots: [Q*bert](https://github.com/frc5024/PowerUP), [MiniBot](https://github.com/frc5024/uBase), [HATCHField](https://github.com/frc5024/DeepSpace), and [Darth Raider](https://github.com/frc5024/InfiniteRecharge). I also developed some [event management software](https://github.com/frc5024/ThriftyField), a [parts management tool](https://github.com/frc5024/parts) for the team shop, [hardware debugging tools](https://github.com/frc5024/testbench), and the team's [core robotics library](https://github.com/frc5024/lib5k) (including its [documentation](https://frc5024.github.io/lib5k)).
 
-<hr>
+I keep my *pinned repositories* list fairly up to date with the best of my more recent projects.
+
 <details>
 <summary>Contact & Socials</summary>
 
