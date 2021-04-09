@@ -6,6 +6,7 @@
     </div>
     <!-- Quick Info -->
     <div align="left" width="50%">
+        <br>
         <ul>
             <li>Senior high school student</li>
             <li>Professional software developer</li>
