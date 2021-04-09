@@ -10,7 +10,11 @@
             <li>Senior high school student</li>
             <li>Professional software developer</li>
             <li>Using: <strong>Rust</strong>, <strong>Python</strong>, <strong>Java</strong>, <strong>C++</strong>, and much more</li>
-            <li>8 years of experience</li>
+            <li>8 years of programming experience</li>
+            <li>Amateur radio operator</li>
+            <li><a href="https://retrylife.ca">Tech-oriented Blogger</a></li>
         </ul>
     </div>
 </div>
+
+<hr>
