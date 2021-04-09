@@ -6,7 +6,7 @@
     </div>
     <!-- Quick Info -->
     <div align="left" width="50%" height="240px">
-        <br><br>
+        <br>
         <ul>
             <li>Senior high school student</li>
             <li>Professional software developer</li>
@@ -15,6 +15,7 @@
             <li>Amateur radio operator</li>
             <li><a href="https://retrylife.ca">Tech-oriented Blogger</a></li>
         </ul>
+        <br>
     </div>
 </div>
 
