@@ -1,3 +1,4 @@
+# Hi, I'm Evan
 <div width="100%">
     <!-- Statistics -->
     <div align="right" width="50%">
@@ -5,11 +6,11 @@
     </div>
     <!-- Quick Info -->
     <div align="left" width="50%">
-        <div align="center">
-            <h3>Hi, I'm Evan</h3>
-            <h5>17 years old | Programming since 2013</h5>
-        </div>
         <ul>
+            <li>Senior high school student</li>
+            <li>Professional software developer</li>
+            <li>Using: <strong>Rust</strong>, <strong>Python</strong>, <strong>Java</strong>, <strong>C++</strong>, and much more</li>
+            <li>8 years of experience</li>
         </ul>
     </div>
 </div>
