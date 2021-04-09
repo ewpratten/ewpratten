@@ -26,6 +26,10 @@ I have been developing software since the fifth grade, starting my journey with 
 
 Outside of work, I almost exclusively develop open-source software, and it is all available here on this GitHub account. On personal projects, I like to iterate, experiment, and develop as fast as possible, which leads me to have a habit of cranking out projects every three-ish days. A lot of these projects are either developed out of necessity for use in another project, or as learning experiments. Feel free to use, fork, and contribute to any of my projects. I appreciate any feedback given in return.
 
+<details>
+<summary><h2>Notable past projects<h2></summary>
+</details>
+
 <hr>
 <details>
 <summary>Contact & Socials</summary>
