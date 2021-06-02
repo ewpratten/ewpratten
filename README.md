@@ -51,7 +51,7 @@ I keep my *pinned repositories* list fairly up to date with the best of my more 
             <li><a href="mailto:ewpratten@retrylife.ca">Email</a></li>
             <li><a href="https://twitter.com/ewpratten">Twitter</a></li>
             <li><a href="https://instagram.com/evanpratten">Instagram</a></li>
-            <li><a href="https://donate.retrylife.ca/">Donations</a></li>
+<!--             <li><a href="https://donate.retrylife.ca/">Donations</a></li> -->
         </ul>
         <br>
     </div>
