@@ -8,11 +8,11 @@
     <div align="left" width="50%" height="240px">
         <br>
         <ul>
-            <li>Senior high school student</li>
+            <li>InfoSec student</li>
             <li>Professional software developer</li>
             <li>Using: <strong>Rust</strong>, <strong>Python</strong>, <strong>Java</strong>, <strong>C++</strong>, and much more</li>
             <li>8 years of programming experience</li>
-            <li>Amateur radio operator</li>
+            <li><a href="https://www.qrz.com/db/VA3ZZA">Amateur radio operator</a></li>
             <li><a href="https://retrylife.ca">Tech-oriented Blogger</a></li>
         </ul>
         <br>
