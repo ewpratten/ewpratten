@@ -2,7 +2,7 @@
 <div width="100%">
     <!-- Statistics -->
     <div align="right" width="50%" height="240px">
-        <img align="right" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=ewpratten&show_icons=true&count_private=true&hide=stars&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&border_radius=0">
+        <img align="right" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=ewpratten&show_icons=true&count_private=true&hide=stars&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&border_radius=0" alt="[Readme stats may not have loaded]">
     </div>
     <!-- Quick Info -->
     <div align="left" width="50%" height="240px">
