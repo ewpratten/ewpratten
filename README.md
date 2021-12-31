@@ -13,7 +13,7 @@
             <li>Using: <strong>Rust</strong>, <strong>Python</strong>, <strong>Java</strong>, <strong>C++</strong>, and much more</li>
             <li>8 years of programming experience</li>
             <li><a href="https://www.qrz.com/db/VA3ZZA">Amateur radio operator</a></li>
-            <li><a href="https://retrylife.ca">Tech-oriented Blogger</a></li>
+            <li><a href="https://va3zza.com">Tech-oriented Blogger</a></li>
         </ul>
         <br>
     </div>
