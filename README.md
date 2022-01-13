@@ -8,7 +8,7 @@
     <div align="left" width="50%" height="240px">
         <br>
         <ul>
-            <li>InfoSec student</li>
+            <li>Software Engineering student</li>
             <li>Professional software developer</li>
             <li>Using: <strong>Rust</strong>, <strong>Python</strong>, <strong>Java</strong>, <strong>C++</strong>, and much more</li>
             <li>8 years of programming experience</li>
