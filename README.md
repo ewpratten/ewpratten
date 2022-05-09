@@ -9,9 +9,9 @@
         <br>
         <ul>
             <li>Software Engineering student</li>
-            <li>Professional software developer</li>
+            <li>Software Developer at <a href="https://www.industrialbrothers.com/">Industrial Brothers</a></li>
             <li>Using: <strong>Rust</strong>, <strong>Python</strong>, <strong>Java</strong>, <strong>C++</strong>, and much more</li>
-            <li>8 years of programming experience</li>
+            <li>9 years of programming experience</li>
             <li><a href="https://www.qrz.com/db/VA3ZZA">Amateur radio operator</a></li>
             <li><a href="https://va3zza.com">Tech-oriented Blogger</a></li>
         </ul>
@@ -45,7 +45,7 @@ To make it easier for people to dig around and see what I work on, the following
  - [Java](https://github.com/search?l=&o=desc&q=user%3AEwpratten+language%3AJava+user%3Afrc5024&s=stars&type=Repositories)
    - For the past few years, Java was my primary language. I picked it up in 10th grade, while working with Raider Robotics ([@frc5024](https://github.com/frc5024)). My Java projects are split between robotics, Minecraft mods, and homework from my high school compsci classes.
  - [Python](https://github.com/search?o=desc&q=user%3AEwpratten+language%3APython&s=stars&type=Repositories)
-   - Python was the programming language I first learned (way back in 5th grade). It was also my primary language up until high school, I have many many Python projects. As is to be expected with new programmers, many of my old Python projects are not of great quality, but my Python abilities have since grown to the point I can comfortably say I am an expert in the language. I also use Python professionally.
+   - Python was the programming language I first learned (way back in 5th grade). It was also my primary language up until high school, I have many many Python projects. As is to be expected with new programmers, many of my old Python projects are not of great quality, but my Python abilities have since grown to the point I can comfortably say I am an expert in the language. I also use Python professionally, although that work is closed source.
  - [C/C++](https://github.com/search?q=user%3AEwpratten+language%3AC%2B%2B+language%3AC+user%3Afrc5024&type=Repositories)
    - C and C++ are both languages I picked up during my time working with Raider Robotics. The majority of my experience in these languages is in the Robotics space, I have a few small side projects in these langues as well. I also use C++ professionally.
 
