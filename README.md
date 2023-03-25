@@ -7,4 +7,4 @@ You may be interested in using my [projects page](https://ewpratten.com/projects
 **Some stats**<br>
 <img src="https://github-readme-stats.vercel.app/api?username=ewpratten&show_icons=true&count_private=true&hide=stars&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&border_radius=0" alt="[Readme stats may not have loaded]">
 
-**Check out <a href="https://ewpratten.com" rel="me">my website</a> for more**
+**Check out <a href="https://ewpratten.com" rel="me" target="_blank">my website</a> for more**
